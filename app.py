@@ -3,7 +3,7 @@ import pandas as pd
 
 # --- 🛑 Layer 0: System Config (標題：台灣全島溫泉地圖) ---
 st.set_page_config(
-    page_title="台灣全島溫泉地圖 Pro", 
+    page_title="三一協會：溫泉地圖", 
     page_icon="♨️", 
     layout="centered",
     initial_sidebar_state="collapsed"
@@ -538,3 +538,4 @@ with tab3:
     * 飲酒後、過度疲勞、空腹或剛吃飽請勿泡湯。
     * 每次浸泡不超過 15 分鐘，起身要慢，以免姿態性低血壓暈倒。
     """)
+
